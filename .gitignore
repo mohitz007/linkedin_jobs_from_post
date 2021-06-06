@@ -1,0 +1,5 @@
+__pycache__/
+data.txt
+.venv/
+__pycache__/scrapper.cpython-39.pyc
+.vscode/
