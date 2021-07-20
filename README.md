@@ -1,7 +1,7 @@
 # LinkedIn-Scrapper
-## Young professionals and graduates are often in the need of a job. As a result, they look out for opportunities in LinkedIn. However there are too many posts one has to go through to finally discover a job posting
-### We saw this as an opportunity to deploy web scraping and machine learning skills to somehow boil down posts users have to go through
-#### This project will scroll for few minutes and prepare a data file which can be surfed using find in page for potential hiring post.
+* Young professionals and graduates are often in the need of a job. As a result, they look out for opportunities in LinkedIn. However there are too many posts one has to go through to finally discover a job posting
+* We saw this as an opportunity to deploy web scraping and machine learning skills to somehow boil down posts users have to go through
+* This project will scroll for few minutes and prepare a data file which can be surfed using find in page for potential hiring post.
 
 ## Approach
 * Create a custom dataset using web scraper and get our LinkedIn feed
